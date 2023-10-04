@@ -12,7 +12,7 @@ exports[`Sidebar renders correctly 1`] = `
           <a
             href="/"
           >
-            John Doe
+            Nathan Ross Powell
           </a>
         </h1>
       </div>
