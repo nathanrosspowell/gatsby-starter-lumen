@@ -155,7 +155,7 @@ export default {
       options: {
         name: config.title,
         short_name: config.title,
-        theme_color: "hsl(31, 92%, 62%)",
+        theme_color: "hsl(323, 83%, 79%)",
         background_color: "hsl(0, 0%, 100%)",
         icon: "content/photo.png",
         display: "standalone",
