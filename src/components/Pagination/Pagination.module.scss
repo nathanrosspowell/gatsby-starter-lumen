@@ -5,6 +5,8 @@
 
 .pagination {
   display: flex;
+
+  font-family: $typographic-heading-font-family;
   @include margin-top(2);
 
   .previous {
@@ -22,7 +24,7 @@
       }
 
       &.disable {
-        color: $color-dark-cloud;
+        color: var(--color-contacts-border);
         pointer-events: none;
       }
     }
@@ -43,7 +45,7 @@
       }
 
       &.disable {
-        color: $color-dark-cloud;
+        color: var(--color-contacts-border);
         pointer-events: none;
       }
     }
