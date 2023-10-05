@@ -1,7 +1,7 @@
 ---
 title: "About me"
 template: "page"
-socialImage: "./notebook.jpg"
+socialImage: "./about-me.png
 ---
 
 Right now (2023), I'm an experienced gaming technology leader with a strong passion for collaboration and empowering teams. 
