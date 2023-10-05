@@ -4,3 +4,23 @@
 @import "themes";
 @import "mixins";
 @import "base";
+
+table {
+    border-collapse:collapse;
+    padding:5px;
+}
+
+table td {
+    padding:5px;
+    text-align:left;
+}
+
+table th {
+color: $color-blue;
+}
+
+table th,
+tbody tr:nth-child(even) {
+    background-color: var(--color-prism-background);
+    padding:5px;
+}
