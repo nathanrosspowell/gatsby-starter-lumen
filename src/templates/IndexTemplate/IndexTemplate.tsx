@@ -11,6 +11,8 @@ import { Sidebar } from "@/components/Sidebar";
 import { useSiteMetadata } from "@/hooks";
 import { AllMarkdownRemark, PageContext } from "@/types";
 
+import social from "./../../../content/social.png"
+
 interface Props {
   data: {
     allMarkdownRemark: AllMarkdownRemark;
@@ -68,15 +70,15 @@ export const query = graphql`
 `;
 
 export const Head: React.FC<Props> = ({ pageContext }) => {
-  const { title, subtitle, url, image } = useSiteMetadata();
+  const { title, subtitle, url } = useSiteMetadata();
   const {
     pagination: { currentPage: page },
   } = pageContext;
   const pageTitle = page > 0 ? `Posts - Page ${page} - ${title}` : title;
 
-  const image2 = url.concat(image);
+  const imagePublicUrl = url.concat(social);
 
-  return <Meta title={pageTitle} description={subtitle} image={image2}/>;
+  return <Meta title={pageTitle} description={subtitle} image={imagePublicUrl}/>;
 };
 
 export default IndexTemplate;
