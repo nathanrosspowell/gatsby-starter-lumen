@@ -14,6 +14,7 @@ export default {
     copyright: config.copyright,
     postsLimit: config.postsLimit,
     disqusShortname: config.disqusShortname,
+    image: config.image,
   },
   plugins: [
     {

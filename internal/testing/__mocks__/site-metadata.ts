@@ -12,6 +12,7 @@ export default {
       postsPerPage: 4,
       author,
       menu,
+      image: "/social.png"
     },
   },
 };
