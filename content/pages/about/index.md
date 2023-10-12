@@ -4,9 +4,11 @@ template: "page"
 socialImage: "./about-me.png"
 ---
 
-I like making video games.
+## Intro
 
-## TL;DR
+I like making video games 🫡
+
+### TL;DR
 
 * Over 16 years of experience in the game industry
 * More than six years in technical leadership roles
@@ -15,11 +17,13 @@ I like making video games.
 * Lifelong gaming fan: Amiga ➜ PS1➜ Xbox ➜ 360 ➜ PS4 ➜ PC 🤓
 
 
-## The Buzzword Soup
+### The Buzzword Soup
 
-Right now (2023), I'm an experienced gaming technology leader with a strong passion for collaboration and empowering teams. 
+In 2023, I stand as a seasoned leader in gaming technology, having devoted over 16 years to this dynamic industry. My journey has encompassed three console generations and a broad spectrum of gaming platforms.
 
-As a technology owner, I focus on creating an environment where everyone can thrive and contribute their best to the gaming industry.
+My primary focus centers on cultivating a technically competent environment where teams can thrive, creating their best work within the gaming sphere. A significant highlight from my past is co-founding a game development studio. This endeavor, initiated two years ago, allowed me to take charge of the company's technical vision and strategy.
+
+My passion lies in crafting immersive and captivating gaming experiences that leave a lasting impact on players worldwide. Throughout my professional voyage, I've consistently demonstrated prowess in technical leadership, collaborative problem-solving, and fostering creativity. I've effectively guided teams comprising programmers, designers, and artists to build healthy video game productions. Moreover, I've established successful partnerships with international clients, pitched compelling project proposals, and played a pivotal role in studio-wide technical initiatives.
 
 
 ## Interests
@@ -53,6 +57,21 @@ But, here on my blog, let me share with you some things that are currently brewi
 - Data Oriented Design
 - Functional programming
 
+
+## Blogging
+
+### Why?
+
+
+### Goals
+
+
+### Future Projects
+
+- Make my own programming language
+- Finish a small game where all code and assets are mine
+- Engine agnostic procedural generation libary 
+- Open source engine contribution, open source investment in general!
 
 
 [linkedin]: https://www.linkedin.com/in/nathanrosspowell/ "Nathan Ross Powell's LinkedIn"
