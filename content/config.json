@@ -1,8 +1,8 @@
 {
-  "title": "Blog by Nathan Ross Powell",
+  "title": "Tech Blog - Nathan Ross Powell",
   "url": "https://zingy-manatee-45414d.netlify.app",
   "image": "/social.png",
-  "subtitle": "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
+  "subtitle": "Thoughs on game development and adject topics.",
   "copyright": "© All rights reserved.",
   "googleAnalyticsId": "",
   "disqusShortname": "",
@@ -10,7 +10,7 @@
   "pathPrefix": "/",
   "menu": [
     {
-      "label": "Articles",
+      "label": "Blog",
       "path": "/"
     },
     {
@@ -25,7 +25,7 @@
   "author": {
     "name": "Nathan Ross Powell",
     "photo": "/photo.png",
-    "bio": "Co-Founder & CTO | Exceptional Execution, Collaborative Leadership",
+    "bio": "Technical Leader in Video Games. Collaborative Leadership, Sustainable Goals & Exceptional Execution.",
     "contacts": {
       "rss": "",
       "email": "nathanrosspowell@gmail.com",

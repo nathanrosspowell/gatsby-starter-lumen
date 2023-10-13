@@ -28,7 +28,7 @@ _A far more detailed list of is availeble on [LinkedIn][linkedin]_.
 
 ## Intro
 
-For some reason I still enjoy trying to solve all of the never-ending problems that arise when making video games.
+For some reason, I still enjoy trying to solve all of the never-ending problems that arise when making video games.
 
 
 

@@ -43,10 +43,10 @@ describe("PageTemplate", () => {
 
     expect(testUtils.getMeta("twitter:card")).toEqual("summary_large_image");
     expect(testUtils.getMeta("twitter:title")).toEqual(
-      "Humane Typography in the Digital Age - Blog by Nathan Ross Powell",
+      "Humane Typography in the Digital Age - Tech Blog - Nathan Ross Powell",
     );
     expect(testUtils.getMeta("og:title")).toEqual(
-      "Humane Typography in the Digital Age - Blog by Nathan Ross Powell",
+      "Humane Typography in the Digital Age - Tech Blog - Nathan Ross Powell",
     );
     expect(testUtils.getMeta("twitter:description")).toEqual(
       "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
