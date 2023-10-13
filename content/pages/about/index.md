@@ -4,34 +4,42 @@ template: "page"
 socialImage: "./about-me.png"
 ---
 
-## Intro
-
-I like making video games 🫡
+<figure>
+	<blockquote>
+		<p>
+        It really shouldn't be that difficult...
+        </p>
+		<footer>
+			<cite>— Nathan Ross Powell.</cite>
+		</footer>
+	</blockquote>
+</figure>
 
 ### TL;DR
 
 * Over 16 years of experience in the game industry
-* More than six years in technical leadership roles
-* Guided a team in a studio leadership role for ~2 years
-* My programming journey spans 18+ years and 3 console generations
+* Work through redundancy, international reloctaion, studio closeres... 
+* More than six years in technical leadership roles, from AAA to indie
+* Guided a team in a studio leadership role for ~2 years, wearing all the hats
+* My gamedev journey spans 18+ years and 3 console generations
 * Lifelong gaming fan: Amiga ➜ PS1➜ Xbox ➜ 360 ➜ PS4 ➜ PC 🤓
 
+_A far more detailed list of is availeble on [LinkedIn][linkedin]_.
 
-### The Buzzword Soup
+## Intro
 
-In 2023, I stand as a seasoned leader in gaming technology, having devoted over 16 years to this dynamic industry. My journey has encompassed three console generations and a broad spectrum of gaming platforms.
+For some reason I still enjoy trying to solve all of the never-ending problems that arise when making video games.
 
-My primary focus centers on cultivating a technically competent environment where teams can thrive, creating their best work within the gaming sphere. A significant highlight from my past is co-founding a game development studio. This endeavor, initiated two years ago, allowed me to take charge of the company's technical vision and strategy.
 
-My passion lies in crafting immersive and captivating gaming experiences that leave a lasting impact on players worldwide. Throughout my professional voyage, I've consistently demonstrated prowess in technical leadership, collaborative problem-solving, and fostering creativity. I've effectively guided teams comprising programmers, designers, and artists to build healthy video game productions. Moreover, I've established successful partnerships with international clients, pitched compelling project proposals, and played a pivotal role in studio-wide technical initiatives.
 
 
 ## Interests
 
-Often people only sum themselves up as their past esperiences and achievemtns. 
-A detailed list of is availeble on [LinkedIn][linkedin].
+Often people only sum themselves up as their professional esperiences and achedemic achievemtns (like above).
 
-But, here on my blog, let me share with you some things that are currently brewing, as well as topics that I am desperately trying to find more time on.
+But, the impetus of this blog is pushing my current knowlege and hopefully reaching some of my future goals as a developer, leader and business person.
+
+Here a few lists of things that are currently brewing and topics that I'm desperately trying to find more time for.
 
 
 ### Leadership
@@ -52,21 +60,15 @@ But, here on my blog, let me share with you some things that are currently brewi
 
 ### Programming
 
-- Strongly typed 
-- C++20 and beyond
+- C++20 and beyond, and languares that compete in this space
 - Data Oriented Design
+- Strongly typed APIs
 - Functional programming
 
 
-## Blogging
-
-### Why?
+## Future Projects
 
 
-### Goals
-
-
-### Future Projects
 
 - Make my own programming language
 - Finish a small game where all code and assets are mine
