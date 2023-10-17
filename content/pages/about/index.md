@@ -10,7 +10,7 @@ socialImage: "./about-me.png"
         It really shouldn't be that difficult...
         </p>
 		<footer>
-			<cite>— Nathan Ross Powell.</cite>
+			<cite>— Me, just before finding out</cite>
 		</footer>
 	</blockquote>
 </figure>
@@ -24,11 +24,14 @@ socialImage: "./about-me.png"
 * My gamedev journey spans 18+ years and 3 console generations
 * Lifelong gaming fan: Amiga ➜ PS1➜ Xbox ➜ 360 ➜ PS4 ➜ PC 🤓
 
-_A far more detailed list of is availeble on [LinkedIn][linkedin]_.
+_The long form of this kinda stuff is availeble on [LinkedIn][linkedin]_.
 
 ## Intro
 
 For some reason, I still enjoy trying to solve all of the never-ending problems that arise when making video games.
+
+Sitting somewhere between art and science, a mix of creativity and calculation, games can bring us a small escape from the horrible place we've created on earth.
+
 
 
 
@@ -40,14 +43,6 @@ Often people only sum themselves up as their professional esperiences and achede
 But, the impetus of this blog is pushing my current knowlege and hopefully reaching some of my future goals as a developer, leader and business person.
 
 Here a few lists of things that are currently brewing and topics that I'm desperately trying to find more time for.
-
-
-### Leadership
-
-- Tools and techniques to align multi discipline teams
-- Reducing iteration and validation time for software development
-- Improving technical scoping
-- Refining singal to noise ratio of communications, especially hybrid and remote orgs
 
 
 ### Game Tech
@@ -64,6 +59,14 @@ Here a few lists of things that are currently brewing and topics that I'm desper
 - Data Oriented Design
 - Strongly typed APIs
 - Functional programming
+
+### Leadership
+
+- Tools and techniques to align multi discipline teams
+- Reducing iteration and validation time for software development
+- Improving technical scoping
+- Refining singal to noise ratio of communications, especially hybrid and remote orgs
+
 
 
 ## Future Projects

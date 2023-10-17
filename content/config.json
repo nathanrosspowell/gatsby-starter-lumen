@@ -2,7 +2,7 @@
   "title": "Tech Blog - Nathan Ross Powell",
   "url": "https://zingy-manatee-45414d.netlify.app",
   "image": "/social.png",
-  "subtitle": "Thoughs on game development and adject topics.",
+  "subtitle": "Thoughts on video game development and technology topics from an industry veteran and lifelong programmer.",
   "copyright": "© All rights reserved.",
   "googleAnalyticsId": "",
   "disqusShortname": "",
@@ -24,8 +24,9 @@
   ],
   "author": {
     "name": "Nathan Ross Powell",
+    "pronouns": "he/him",
     "photo": "/photo.png",
-    "bio": "Technical Leader in Video Games. Collaborative Leadership, Sustainable Goals & Exceptional Execution.",
+    "bio": "Nathan is an innovative technology leader with a talent for guiding teams through challenges, creating dynamic tech visions, and fostering iterative growth. With a proven track record in transforming online experiences, optimizing workflows, and managing international collaborations, Nathan has earned a reputation for exceptional execution and leadership in the tech industry.",
     "contacts": {
       "rss": "",
       "email": "nathanrosspowell@gmail.com",

@@ -10,6 +10,7 @@ import * as styles from "./Author.module.scss";
 type Props = {
   author: {
     name: string;
+    pronouns: string;
     bio: string;
     photo: string;
   };
@@ -24,20 +25,21 @@ const Author = ({ author, isIndex }: Props) => (
 
     <div className={styles.titleContainer}>
       {isIndex ? (
-        <h1 className={styles.title}>
-          <Link className={styles.link} to="/">
-            {author.name}
-          </Link>
-        </h1>
+          <h1 className={styles.title}>
+            <Link className={styles.link} to="/">
+              {author.name}
+            </Link>
+          </h1>
       ) : (
-        <h2 className={styles.title}>
-          <Link className={styles.link} to="/">
-            {author.name}
-          </Link>
-        </h2>
+          <h2 className={styles.title}>
+            <Link className={styles.link} to="/">
+              {author.name}
+            </Link>
+          </h2>
       )}
       <ThemeSwitcher />
     </div>
+    <p className={styles.subtitle}>({author.pronouns})</p>
     <p className={styles.subtitle}>{author.bio}</p>
   </div>
 );
