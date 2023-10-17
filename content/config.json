@@ -18,8 +18,8 @@
       "path": "/pages/about"
     },
     {
-      "label": "Contact me",
-      "path": "/pages/contact"
+      "label": "Contact",
+      "path": "/pages/contacts"
     }
   ],
   "author": {
