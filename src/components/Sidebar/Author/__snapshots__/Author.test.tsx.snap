@@ -15,6 +15,10 @@ exports[`Author renders correctly 1`] = `
     </h2>
   </div>
   <p>
+    (
+    )
+  </p>
+  <p>
     Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.
   </p>
 </div>
