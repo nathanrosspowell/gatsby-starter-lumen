@@ -1,6 +1,6 @@
 ---
 title: Blogging Goals
-date: "2023-10-17T03:43:13Z.000Z"
+date: "2023-10-17T03:43:13.000Z"
 template: "post"
 draft: false
 slug: "/posts/blogging-goals"
