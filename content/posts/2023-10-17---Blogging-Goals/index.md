@@ -2,7 +2,7 @@
 title: Blogging Goals
 date: "2023-10-17T03:43:13.000Z"
 template: "post"
-draft: false
+draft: true
 slug: "/posts/blogging-goals"
 category: "Update"
 tags:
