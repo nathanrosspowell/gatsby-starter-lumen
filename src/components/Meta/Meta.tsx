@@ -4,15 +4,19 @@ interface Props {
   description: string;
   image?: string;
   title: string;
+  date?: string;
 }
 
-const Meta: React.FC<Props> = ({ description, title, image }: Props) => (
+const Meta: React.FC<Props> = ({ description, title, image, date}: Props) => (
   <>
     <title>{title}</title>
     <meta name="description" content={description} />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content={title} />
     <meta name="twitter:description" content={description} />
+
+    <meta name="author" content="Nathan Ross Powell"></meta>
+
 
     <meta property="og:title" content={title} />
     <meta property="og:type" content="website" />
@@ -25,11 +29,16 @@ const Meta: React.FC<Props> = ({ description, title, image }: Props) => (
     {image ? (
       <>
         <meta name="image" content={image} />
-        <meta property="og:image" content={image} />
-          <meta name="og:image" content={image} />
         <meta name="twitter:image" content={image} />
-      <meta property="og:image:width" content="1800" />
-      <meta property="og:image:height" content="1200" />
+        <meta property="og:image" content={image} />
+        <meta property="og:image:width" content="1200" />
+        <meta property="og:image:height" content="630" />
+      </>
+    ) : null}
+
+    {date ? (
+      <>
+        <meta property="article:published_time" content={date} />
       </>
     ) : null}
   </>

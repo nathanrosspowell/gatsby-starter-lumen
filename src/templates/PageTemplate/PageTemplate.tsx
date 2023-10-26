@@ -54,6 +54,7 @@ export const Head: React.FC<Props> = ({ data }) => {
     frontmatter: {
       title: pageTitle,
       description: pageDescription = "",
+      date: pageDate,
       socialImage,
     },
   } = data.markdownRemark;
@@ -65,6 +66,7 @@ export const Head: React.FC<Props> = ({ data }) => {
       title={`${pageTitle} - ${title}`}
       description={description}
       image={image}
+      date={pageDate}
     />
   );
 };

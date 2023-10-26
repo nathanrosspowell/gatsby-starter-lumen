@@ -9,7 +9,7 @@ tags:
   - "Blog"
   - "Meta"
   - "Update"
-description: "A personal update on the goals for blogging and content creation online"
+description: "Welcome to another new version of a personal website, how exciting! In this blog you can look back at the past versions and learn why I picked a new framework."
 socialImage: "./media/hello-world.png"
 ---
 
